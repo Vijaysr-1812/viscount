@@ -39,3 +39,20 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# AI Agent logs and output files
+build_output.txt
+build_output_utf8.txt
+ts_check.txt
+ts_output.txt
+ts_output_utf8.txt
+
+# Scratch/temp files
+scratch/
+proxy.ts
+test-pdf.js
+
+# Test data and mocks
+mock_soc2_evidence.txt
+test_contracts/
+public/test_contracts/
